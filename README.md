@@ -25,7 +25,7 @@ My journey has given me hands-on experience in **full-stack development**, allow
 Beyond technical skills, I’ve taken part in organizing and managing various events, which helped strengthen my leadership and team collaboration abilities.<br>  
 I’m a dependable and proactive individual, always eager to learn, grow, and contribute meaningfully to any team I work with.
 
-Fueled by curiosity and a desire to innovate, I aim to build solutions that create real-world impact — one line of code at a time.
+Adapting, Evolving, and always there when it matters most.
 
 
 

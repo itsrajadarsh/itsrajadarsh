@@ -1,7 +1,7 @@
 ## 👋 About Me
 
 I’m a **Software Developer** passionate about designing scalable, efficient, and user-focused systems.  
-With a strong foundation in **C++**, **JavaScript**, and **Full-Stack Development**, I enjoy working across layers — from embedded systems to modern web platforms.
+With a strong foundation in **C++**, **JavaScript**, and **Full-Stack Development**, I enjoy working across layers - from embedded systems to modern web platforms.
 
 I specialize in building interactive interfaces, automation tools, and connected systems that blend hardware and software seamlessly. I’m driven by curiosity, continuous learning, and the pursuit of elegant solutions to complex problems.
 
@@ -9,11 +9,21 @@ I specialize in building interactive interfaces, automation tools, and connected
 
 ### 🛠️ Core Skills
 
-**Languages**: C++, C, JavaScript, TypeScript, Python  
-**Frameworks**: Qt, React, Node.js, Express, Redux  
-**Databases**: PostgreSQL, MySQL, SQLite  
-**Tools**: Git, GitHub, Postman, VS Code, STM32CubeIDE  
-**Expertise**: Full-Stack Development, Embedded Systems, Automation, Secure Application Design, System Optimization
+### 🧠 Technical Skills
+
+**Primary Skills**  
+- **Languages:** C++, JavaScript, Python  
+- **Frameworks & Libraries:** Qt, ReactJS, NodeJS, ExpressJS  
+- **Databases:** PostgreSQL, SQLite  
+- **Core Expertise:** Full-Stack Development, Embedded Systems (STM32), Automation, Secure Application Design  
+
+**Secondary Skills**  
+- **Languages & Tools:** C, TypeScript, Bash, AutoHotkey v2, HTML, CSS  
+- **Frameworks & Tools:** Redux, Bootstrap, Tailwind, EJS, NPM, Vite  
+- **Platforms:** GitHub, Vercel, Postman, STM32CubeIDE, VS Code, Tera Term  
+- **Systems & Practices:** Linux, Windows, Agile, Git-based Workflows  
+- **Additional Expertise:** REST APIs, OAuth 2.0, Software Debugging, Architecture Design
+
 
 ---
 
